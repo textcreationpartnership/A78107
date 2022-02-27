@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few words minding the representative of the Common-Wealth of England how they may pay their armies, and ease the people of their taxes, which have a long time been a heavy burthen upon the poorer sort. / William Banes.</title>
+            <author>Banes, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78107</idno>
+            <idno type="STC">Wing B643A</idno>
+            <idno type="STC">ESTC R172577</idno>
+            <idno type="EEBO-CITATION">45097518</idno>
+            <idno type="OCLC">ocm 45097518</idno>
+            <idno type="VID">171137</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171137)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2561:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few words minding the representative of the Common-Wealth of England how they may pay their armies, and ease the people of their taxes, which have a long time been a heavy burthen upon the poorer sort. / William Banes.</title>
+                  <author>Banes, William.</author>
+               </titleStmt>
+               <extent>[1], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold at the Blackspread-Eagle near the west end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the California State Library, Sutro Branch.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Appropriations and expenditures.</term>
+               <term>Public finance --  Great Britain --  To 1688.</term>
+               <term>Tithes --  Great Britain --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171137:1" rendition="simple:additions"/>
+            <p> A Few WORDS Minding the REPRESENTATIVE OF THE COMMON-WEALTH OF ENGLAND How they may pay their Armies, and eaſe the People of their Taxes, which have a long time been a heavy burthen upon the poorer ſort.</p>
+            <q>
+               <p>
+                  <hi>And the ſixth Angel poured out his Vial upon the great River Eu<g ref="char:EOLhyphen"/>phrates, and the water thereof was dryed up, that the way of the Kings of the Eaſt might be prepared.</hi>
+               </p> 
+               <bibl>
+                  <hi>Rev.</hi> 16. 12.</bibl>
+            </q>
+            <p>WILLIAM BANES.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold at the Black-ſpread-Eagle near the weſt end of <hi>Pauls,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171137:2"/>
+            <head>
+               <hi>A few words, minding the Repreſentative of the Common-Wealth of</hi> England, <hi>how they may pay their Armies, and eaſe the People of their Taxes.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S every one that is a true Believer which hath felt &amp; taſted of the good word of life, the annointing which teacheth all things, Jeſus Chriſt revealed and made manifeſt within, doth know and can witneſs the fulfilling of the propheſies in himſelf; ſo is there alſo, and ſhall be a fulfilling of them without in the world, among the Nations. The City of <hi>Babylon</hi> was ſcituated on an Iſland in the River <hi>Euphrates,</hi> ſo that the waters did encompaſs the City that nothing could paſs or come to it but by vertue and benefit of the Waters of the River; and this was that great City which was ſo eminent a<g ref="char:EOLhyphen"/>mong the Nations for her great Idolatry; and againſt this City the Prophets did propheſie, <hi>Eſay</hi> 46. 47. <hi>Ier.</hi> 50. 38. 51. 74. 52. 47. and this City of <hi>Babylon</hi> was a figure of Myſtery Babylon the great, the Mother of Harlots, and abominations of the earth; and the whole National Clergy, or Parochial Curates and Prieſts, with all their Attendants, and the Steeplehouſes and Academies, and thoſe which ſend them forth; this whole rabble (in all na<g ref="char:EOLhyphen"/>tions which call themſelves Chriſtians) is this Myſtery
+<pb n="2" facs="tcp:171137:3"/> Babylon, the great Whore that ſitteth upon many Wa<g ref="char:EOLhyphen"/>ters, and corrupteth the earth, and with whom the kings of the earth have committed fornication, and the inha<g ref="char:EOLhyphen"/>biters of the Earth have been made drunk with the wine of her fornications: <hi>Rev.</hi> 17. 2. 5. 18. 3. 11. 19. 2. and this is found true here in <hi>England</hi> by woful experience; for are not our falſe ſelf-erected Prieſts as bad as thoſe which the Prophets called greedy dumb dogs, that ſought their gain from their quarter, and could never have enough; which preached for hire, and divin'd for money, and ſpeak peace to the wicked for the gift ſake; but if it was not put into their mouths they prepared warre againſt them: And theſe are the Merchants of the earth which are waxed rich through the abundance of her delicacies, and they ſhall weep and mourn over her, for no man buy<g ref="char:EOLhyphen"/>eth their Merchandiſe any more: Theſe are ſayers and not doers, and love to be called of men Maſter, &amp; bind heavy burthens upon the people: <hi>Iſa.</hi> 56. <hi>Jer.</hi> 5. 23. <hi>Mich.</hi> 3. 5. <hi>Matth.</hi> 23. it is time for us to go out from <hi>Babel,</hi> from theſe Antichriſtian ſhepherds, who goeth into the ſheep<g ref="char:EOLhyphen"/>fold at the theeviſh back-door, covering their Wicked<g ref="char:EOLhyphen"/>neſs with Chriſts ſufferings and death, and with falſe hy<g ref="char:EOLhyphen"/>pocriſie to pleaſe men for their favour and reward; and is not all done for money? And by the wit and ſubtilty of this Whore of <hi>Babel,</hi> are the people lead on to hypo<g ref="char:EOLhyphen"/>critical ways: She boaſteth much of her faith, and leads people on in an hiſtorical faith, which is but meer noti<g ref="char:EOLhyphen"/>on: She teacheth the notion, and he that doth not ſtick to that is counted an Heretick: She is big with darkneſs and wrath, and yet ſhe alwayes cryeth out, Here is the true church, flock all hither; yes, run after the Whore of <hi>Babel</hi> who is big with ſtately pride; give ſomething to<g ref="char:EOLhyphen"/>wards her child-bed that ſhe may ſatisfie her hypocriti<g ref="char:EOLhyphen"/>cal
+<pb n="3" facs="tcp:171137:3"/> ſtinking pride: She is like a Whore, who when ſhe is ſaid to be a whore, will not endure it, but curſe and rail; and ſo alſo when the ſpirit of truth layeth her open, then ſhe cryes, <hi>O Heretiok, Heretick, begon from him all of you, the Devil is in him:</hi> Thus is the ſpirit of God miſcall'd, becauſe they do not know it: <hi>And the ſixth Angel pour<g ref="char:EOLhyphen"/>ed out: &amp;c.</hi>
+            </p>
+            <p>And the Waters of the River <hi>Euphrates</hi> which encom<g ref="char:EOLhyphen"/>paſſed the city <hi>Babylon</hi> were a figure of the corrupt and unjuſt Laws of the Nations, by vertue of which this My-Myſtery Babylon doth demand and exact from the peo<g ref="char:EOLhyphen"/>ple their undeſerved hire, and ill-gotten reward, and it doth bring them a curſe along with it, as may be ſeen ge<g ref="char:EOLhyphen"/>nerally in their poſterities.</p>
+            <p>And now oh Parliament of <hi>England</hi> ſee with your own eyes, and look inward and diſcern the ſigns of the times; and between the righteous and the wicked; be<g ref="char:EOLhyphen"/>tween him that ſerveth the Lord, and him that ſerveth him not; and in regard the tythe or tenth of the encreaſe of the earth is due and payable from the people to the State, and it amounting to ſuch a vaſt revenue, let it be given no longer to ſuch an undeſerving and unthankful generation of men as the Prieſts of theſe Nations are; but let it be imployed to maintain our Armies againſt the enemies and diſturbers of our peace, of which the Prieſts are chief; ſo that it may no more aſſiſt (as now it doth) our ſpiritual enemy the Devil in his agents the wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ked Prieſts; many of which like hell-hounds being greedy after the blood of the righteous, by ſtirring up the unjuſt Magiſtrate againſt them, have procured their impriſonment till death. Oh horrible wickedneſs, that the chief Magiſtrates hath connived at theſe things! for which, together with their pride, the Lord hath cut
+<pb n="4" facs="tcp:171137:4"/> them off in their full ſtrength. Chriſt doth not ſend out his meſsengers to be perſecuters, as Wolves a<g ref="char:EOLhyphen"/>mong ſheeep: but his muſt be as ſheep among wolves: but this Whore of Babel is a great devouring wolf, and ſhe is one and the ſame in all Nations, onely there is ſome difference in her garb and dreſs: and now let it ap<g ref="char:EOLhyphen"/>pear that the Lord hath choſen you to be his inſtruments to do his work, whereby our Nation of England, and its Dominions may be happy in being the firſt, that fal<g ref="char:EOLhyphen"/>leth off from her ſpirituall Idolatry. Conſider how the Almighty hath ſituated this Nation, in his infinite pro<g ref="char:EOLhyphen"/>vidence: that it might be an example and a forerunner to other Nations in doing his great work. We have ſeen the pouring forth of the fifth vial upon the ſeat of the Beaſt in this Nation, viz. the Antichriſtian Magi<g ref="char:EOLhyphen"/>ſtrate, and his kingdome (viz. his party) full of dark<g ref="char:EOLhyphen"/>neſs, and how at this very time they do gnaw their tongues for pain and madneſs, and how the Lord hath cut him off that ſet himſelf up in this ſeat, not having regard to do his work: and now the ſixth angel is pouring forth his vial in this Nation, and the great allowance whereby the Antichriſtian prieſthood is maintained and kept up in their ſtately pride, muſt be taken away, where<g ref="char:EOLhyphen"/>fore be ye willing to do the Lords work, in this the day of his power. <hi>Rev.</hi> 16. 19. and your enemies, though more then ten for one, ſhall be as duſt before the wind, and as ſtubble to the fire; for they are the blind, zealous, ſelf-conceited, Phariſaical hypocrites, with the prieſts, &amp; the blackmouth'd, ignorant, rude multitude, and though you do it not, yet <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ye ſure this work ſhall be done before this generation (which are now grown men) paſs away; remember <hi>Jehu,</hi> and others: therefore do ye not the Lords work to halfs, and be ye ſure that you leave none of thoſe waters running in the channel of that river, but
+<pb n="5" facs="tcp:171137:4" rendition="simple:additions"/> let it be made quite dry, that the kings of the ea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th may paſs without any let or hindrance; for they do bring the meſsage of truth, and deliver it freely, not demanding any reward, it is glad tydings of great joy, a revealing of the myſtery that hath been hid from ages, and theſe are the true Magi, or wiſe men (though fools in the worlds account) that have ſeen the morning ſtar of the Son of righteouſneſs, the light of Jeſus Chriſt in the ſoul, the voice of him who is the Son of God, by an e<g ref="char:EOLhyphen"/>ternal generation, calling to the ſons of men, and checking their conſciences in the firſt motion or thoughts of com<g ref="char:EOLhyphen"/>mitting ſin, ſaying, <hi>This is the way, walk in it;</hi> and who<g ref="char:EOLhyphen"/>ſoever ſaith this is naturall, is a lyer, and ſhall have his portion with them; and by hearkening to this voice, and following of this light, they have found him whom their ſoul loveth, that pearl of great price, which makes them ſell all their own righteouſneſs and earthly vanity to buy it, which is the true Meſſias, Chriſt now made manifeſt within; and they freely and willingly ſheweth all, how they found him, and where he dwelleth, but none regard<g ref="char:EOLhyphen"/>eth, nor will go to ſee, ſaving thoſe who are true Iſraelites indeed. And theſe are thoſe which the world (out of ſcorn and Antichriſtian fury) rails at and calls them Quakers, not conſidering the Scriptures, which ſaith, they, and they onely are Gods people, who are humble and reſigned in him, and of a contrite ſpirit, and trembleth at his word, <hi>Iſa.</hi> 66. 25. Babel maketh a great ſtir, and talketh much of the Scriptures, but maketh no other uſe of them, but only to palliate or cloke their ungodly vitious lives, but theſe people are thoſe which do make the right uſe of the Scri<g ref="char:EOLhyphen"/>ptures, becauſe they do underſtand them; for they have the true key, the revealing myſtery within them, which is the hidden Manna, the white ſtone, the new name written, which no man knoweth, ſaving he that receiveth it, there
+<pb n="6" facs="tcp:171137:5" rendition="simple:additions"/> is a continual giving and receiving of the flowings of life. As for my own particular I am a ſtranger to theſe peo<g ref="char:EOLhyphen"/>ple as to the outward (being in my Calling a Chirurgeon, having been a ſervant to this common-wealth, abroad in their armies ever ſince the Earl of <hi>Eſſex</hi> marched forth of London, and theſe laſt ten years in the Service of Ireland) but in their heavenly Doctrine my ſoul is knit to them, and I can witneſs it, and ſet to my ſeal, that it is the truth, as it is in Jeſus. Happy were England if it did know its own good, in having theſe people in it; but the contemners of them, will one day ſee their error, to their eternall miſery, when they ſhall cry out as Solomon ſaith in his book of Wiſdome 3. chap. 2. v. in the ſight of the unwiſe ſhepherd to dye, and their end was thought grievous, and their departing from us deſtruction, but they are in peace. ch. 5. v. 2, 3, 4, 5, 6. when they ſee him, they ſhall be vexed with horrible fear, and ſhall be ama<g ref="char:EOLhyphen"/>zed for his wonderfull deliverance, and ſhall change their minds, and ſigh for grief of mind, and ſay within them<g ref="char:EOLhyphen"/>ſelves, This is he whom we ſometime had in deriſion, and in a parable of reproach: we fools thought his life madneſs, and his end without honour. How is he count<g ref="char:EOLhyphen"/>ed among the children of God, and his portion is among the ſaints! therefore we have erred from the way of truth, and the light of righteouſneſs hat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not ſhined unto us, and the ſon of underſtanding roſe not upon us. Wo to thoſe that cheriſh vice, and diſcountenance vertue, but happy ſhall he be that choſeth rather to ſuffer affliction with the people of God, then to enjoy the pleaſures of ſin for a ſeaſon.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
